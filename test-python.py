@@ -1,1 +1,1 @@
-print("Hello Worde")
+print(tybe(10))
